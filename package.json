@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/jhasudhanshu08/chat_app#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "socket.io": "^4.5.1"
   }
 }
